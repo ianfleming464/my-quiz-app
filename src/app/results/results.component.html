@@ -11,13 +11,25 @@
 > -->
 
 <div class="results">
-  <h2>Results:</h2>
-  <div
-    class="answer"
-    *ngFor="let a of answers.values"
-    [ngClass]="{ correct: a.correct }"
-  >
-    {{ a.value }} : {{ a.correct }}.
-  </div>
+  <h2 align="center">Results:</h2>
+  <mat-card class="results-container">
+    <div
+      class="answer"
+      *ngFor="let a of answers.values; let i = index"
+      [ngClass]="{ correct: a.correct }"
+    >
+      <p class="question-repeat">{{ i + 1 }}. {{ questions[i].label }}</p>
+      <p class="your-answer">
+        {{ a.value }} ---
+        <span class="wrong-right">{{
+          a.correct ? "Correct!" : "WRONG! Bad luck."
+        }}</span>
+      </p>
+    </div>
+  </mat-card>
 </div>
-<a routerLink="/welcome" class="btn btn-primary"> Choose another quiz</a>
+<div align="center">
+  <a routerLink="/welcome" class="button" align="center">
+    Choose another quiz</a
+  >
+</div>

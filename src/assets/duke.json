@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Where does the final battle take place?",
+    "choices": [
+      { "value": "In a football stadium", "correct": true },
+      { "value": "In a wrecked building", "correct": false },
+      { "value": "In an alien ship", "correct": false },
+      { "value": "In a prison", "correct": false }
+    ]
+  },
+  {
+    "label": "The episode 'Shrapnel City' does NOT visit a..",
+    "choices": [
+      { "value": "..radio station", "correct": false },
+      { "value": "..supermarket", "correct": true },
+      { "value": "..bank", "correct": false },
+      { "value": "..hotel", "correct": false }
+    ]
+  },
+  {
+    "label": "The iconic box art was inspired by which movie?",
+    "choices": [
+      { "value": "Army of Darkness", "correct": true },
+      { "value": "Terminator", "correct": false },
+      { "value": "Aliens", "correct": false },
+      { "value": "Driving Miss Daisy", "correct": false }
+    ]
+  },
+  {
+    "label": "Duke Nukem 3D was originally released in..",
+    "choices": [
+      { "value": "1995", "correct": false },
+      { "value": "1989", "correct": false },
+      { "value": "1999", "correct": false },
+      { "value": "1996", "correct": true }
+    ]
+  },
+  {
+    "label": "The original 3 episodes are Shrapnel City, Lunar Apocalypse and..?",
+    "choices": [
+      { "value": "Plug and Pray", "correct": false },
+      { "value": "Alien World Order", "correct": false },
+      { "value": "L.A. Meltdown", "correct": true },
+      { "value": "The Birth", "correct": false }
+    ]
+  }
+]

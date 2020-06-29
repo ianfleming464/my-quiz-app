@@ -1,5 +1,7 @@
-body {
-  background-color: #c07da3;
+@import url("https://fonts.googleapis.com/css?family=Rajdhani:400,700&display=swap");
+
+* {
+  font-family: "Rajdhani", "sans-serif" !important;
 }
 
 html,
@@ -7,6 +9,20 @@ body {
   height: 100%;
 }
 body {
-  margin: 10px;
-  font-family: Nunito, "Helvetica Neue", sans-serif;
+  margin: 200px auto;
+  font-family: "Rajdhani", "sans-serif";
+}
+
+body {
+  background: #654ea3; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #eaafc8,
+    #654ea3
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #eaafc8,
+    #654ea3
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }

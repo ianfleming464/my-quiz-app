@@ -1,14 +1,20 @@
 [
   {
-    "label": "Maths",
-    "name": "maths",
-    "description": "Questions about maths",
-    "fileName": "maths.json"
+    "label": "Duke Nukem 3D",
+    "name": "duke nukem",
+    "description": "Questions about Duke Nukem 3D",
+    "fileName": "duke.json"
   },
   {
-    "label": "French",
-    "name": "french",
-    "description": "Questions about french",
-    "fileName": "french.json"
+    "label": "The Secret of Monkey Island",
+    "name": "monkey island",
+    "description": "Questions about The Secret of Monkey Island",
+    "fileName": "monkey.json"
+  },
+  {
+    "label": "Doom",
+    "name": "doom",
+    "description": "Questions about Doom",
+    "fileName": "doom.json"
   }
 ]
