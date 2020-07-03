@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Doom's original file size was..",
+    "choices": [
+      { "value": "2.39 MB", "correct": true },
+      { "value": "1 MB", "correct": false },
+      { "value": "1 GB", "correct": false },
+      { "value": "2.39 GB", "correct": false }
+    ]
+  },
+  {
+    "label": "Doom was released in..",
+    "choices": [
+      { "value": "1991", "correct": false },
+      { "value": "1993", "correct": true },
+      { "value": "1998", "correct": false },
+      { "value": "2000", "correct": false }
+    ]
+  },
+  {
+    "label": "The first proper Doom level ever created was..",
+    "choices": [
+      { "value": "Spawning Vats", "correct": true },
+      { "value": "Halls of the Damned", "correct": false },
+      { "value": "Tower of Babel", "correct": false },
+      { "value": "Hell's Keep", "correct": false }
+    ]
+  },
+  {
+    "label": "John Romero's first big project after leaving id software was..",
+    "choices": [
+      { "value": "Quake", "correct": false },
+      { "value": "Blood", "correct": false },
+      { "value": "Serious Sam", "correct": false },
+      { "value": "Daikatana", "correct": true }
+    ]
+  },
+  {
+    "label": "BFG stands for..?",
+    "choices": [
+      { "value": "Big Friendly Giant", "correct": false },
+      { "value": "Blue Fleeing Gnat", "correct": false },
+      { "value": "Big F*cking Gun", "correct": true },
+      { "value": "Brian's Far-out Grimace", "correct": false }
+    ]
+  }
+]

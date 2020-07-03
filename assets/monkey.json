@@ -1,0 +1,47 @@
+[
+  {
+    "label": "The Secret of Monkey Island was conceived by..",
+    "choices": [
+      { "value": "John McCormack", "correct": false },
+      { "value": "Ron Burgundy", "correct": false },
+      { "value": "Ron Gilbert", "correct": true },
+      { "value": "Hans Moleman", "correct": false }
+    ]
+  },
+  {
+    "label": "I'm Guybrush Threepwood, mighty..",
+    "choices": [
+      { "value": "..mouse", "correct": false },
+      { "value": "..salesman", "correct": false },
+      { "value": "..seagull", "correct": false },
+      { "value": "..pirate", "correct": true }
+    ]
+  },
+  {
+    "label": "The three trials consist of sword fighting, thievery and..",
+    "choices": [
+      { "value": "..treasure hunting", "correct": true },
+      { "value": "..land lubbing", "correct": false },
+      { "value": "..plank walking", "correct": false },
+      { "value": "..parrot bothering", "correct": false }
+    ]
+  },
+  {
+    "label": "The original release consisted of how many floppy discs?",
+    "choices": [
+      { "value": "11", "correct": false },
+      { "value": "8", "correct": true },
+      { "value": "2", "correct": false },
+      { "value": "Trick question - none", "correct": false }
+    ]
+  },
+  {
+    "label": "The Governor of the Tri-Island Area is..",
+    "choices": [
+      { "value": "Bob Marley", "correct": false },
+      { "value": "Horatio Torquemada Marley", "correct": false },
+      { "value": "Elaine Marley", "correct": true },
+      { "value": "The Ghost Pirate LeChuck", "correct": false }
+    ]
+  }
+]
